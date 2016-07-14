@@ -1,0 +1,7 @@
+/.settings/
+/.project
+/commons-core/.settings/
+/commons-core/target/
+/commons-core/.classpath
+/commons-core/.project
+/commons-core/.gitignore
